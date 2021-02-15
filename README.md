@@ -1,3 +1,2 @@
-# hello-world
-Stab in the dark
-a bit about yourelf. Well, I'm a very literal person.
+# About
+Developing eduational content for VATSIM members.
